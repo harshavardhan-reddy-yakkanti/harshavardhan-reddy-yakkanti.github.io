@@ -1,7 +1,7 @@
 // Load everything after page loads
 document.addEventListener("DOMContentLoaded", function () {
-loadComponent("./components/header.html", "#header", initProfilePopup);
-loadComponent("./components/footer.html", "#footer");
+loadComponent("src/components/header.html", "#header", initProfilePopup);
+loadComponent("src/components/footer.html", "#footer");
 loadProjects();
 });
 
@@ -31,7 +31,7 @@ element.innerHTML = data;
 
 // Load projects
 function loadProjects() {
-fetch("./data/projects.json")
+fetch("src/data/projects.json")
 .then(response => response.json())
 .then(projects => {
 const container = document.getElementById("projects");
