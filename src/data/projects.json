@@ -1,28 +1,32 @@
 [
-{
-"title": "Efood – Collect & Go",
-"duration": "July 2023 - October 2025",
-"role": "Test Engineer",
-"skills": ["Selenium", "Playwright", "Java", "Cucumber", "TestNG", "Jenkins", "CI/CD", "Postman"],
-"contributions": [
-"Led QA automation initiatives across Agile sprints ensuring high-quality releases",
-"Designed and implemented automation test strategies from scratch improving test coverage",
-"Optimized automation frameworks for scalability, reusability, and efficiency",
-"Integrated automated test suites into Jenkins CI/CD pipelines for continuous testing",
-"Collaborated with developers and business analysts to identify defects and improve delivery"
-]
-},
-{
-"title": "MACH CoGo",
-"duration": "November 2025 - Present",
-"role": "Test Engineer",
-"skills": ["Selenium", "Java", "Gradle", "Azure DevOps", "API Testing", "AEM"],
-"contributions": [
-"Built automation framework from scratch using Selenium with Java and Gradle",
-"First person in my organisation to integrate automation scripts into Azure CI/CD pipelines",
-"Performed UI/UX and API testing using Postman",
-"Worked on Adobe Experience Manager (AEM) integrated frontend testing",
-"Implemented accessibility testing and generated dashboards for reporting"
-]
-}
+  {
+    "title": "Efood – Collect & Go",
+    "duration": "July 2023 - October 2025",
+    "role": "Test Engineer",
+    "skills": ["Selenium", "Playwright", "Java", "Cucumber", "TestNG", "Jenkins", "CI/CD", "Postman"],
+    "summary": "Built and scaled UI/API automation frameworks to improve test coverage and enable continuous regression testing.",
+    "contributions": [
+      "Designed and implemented scalable automation frameworks using Selenium and Playwright for end-to-end testing",
+      "Automated critical user journeys, significantly improving overall test coverage across releases",
+      "Integrated automated test suites into Jenkins CI/CD pipelines, enabling continuous and faster regression cycles",
+      "Reduced manual testing effort by building reusable components and structured test architecture",
+      "Enhanced test reliability and reporting using TestNG, Cucumber, and logging mechanisms",
+      "Collaborated with developers and business teams to identify high-risk scenarios and prevent production defects"
+    ]
+  },
+  {
+    "title": "MACH CoGo",
+    "duration": "November 2025 - Present",
+    "role": "Test Engineer",
+    "skills": ["Selenium", "Java", "Gradle", "Azure DevOps", "API Testing", "AEM"],
+    "summary": "Developed automation solutions and CI/CD integrations to modernize testing workflows and improve delivery efficiency.",
+    "contributions": [
+      "Built a Selenium-based automation framework from scratch using Java and Gradle for scalable test execution",
+      "Pioneered integration of automation scripts into Azure DevOps CI/CD pipelines within the organization",
+      "Performed API testing using Postman and validated backend services for reliability and performance",
+      "Tested AEM-based frontend components ensuring content accuracy and seamless user experience",
+      "Implemented accessibility testing practices to improve application usability and compliance",
+      "Created dashboards and reporting mechanisms to track test execution and quality metrics"
+    ]
+  }
 ]

@@ -93,15 +93,20 @@ justify-content: center;
 }
 
 .resume-btn {
-background: linear-gradient(135deg, #38bdf8, #6366f1);
-color: white;
-box-shadow: 0 5px 15px rgba(99, 102, 241, 0.4);
-transition: 0.3s ease;
+  background: linear-gradient(135deg, #38bdf8, #6366f1);
+  color: white;
+  box-shadow: 0 5px 15px rgba(99, 102, 241, 0.4);
+  transition: all 0.3s ease;
+  transform: translateY(-2px);
 }
 
-.resume-btn {
-transform: translateY(-2px);
+/* 🔥 ADD THIS */
+.resume-btn:hover {
+  transform: translateY(-5px) scale(1.03);
+  box-shadow: 0 10px 25px rgba(99, 102, 241, 0.6);
+  background: linear-gradient(135deg, #0ea5e9, #4f46e5);
 }
+
 
 /* ================= HERO ================= */
 #hero {
