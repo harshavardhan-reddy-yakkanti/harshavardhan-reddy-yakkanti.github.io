@@ -1,0 +1,28 @@
+[
+{
+"title": "Efood – Collect & Go",
+"duration": "24 Months",
+"role": "Automation Test Engineer",
+"skills": ["Selenium", "Playwright", "Java", "Cucumber", "TestNG", "Jenkins", "CI/CD"],
+"contributions": [
+"Led QA automation initiatives across Agile sprints ensuring high-quality releases",
+"Designed and implemented automation test strategies from scratch improving test coverage",
+"Optimized automation frameworks for scalability, reusability, and efficiency",
+"Integrated automated test suites into Jenkins CI/CD pipelines for continuous testing",
+"Collaborated with developers and business analysts to identify defects and improve delivery"
+]
+},
+{
+"title": "MACH CoGo",
+"duration": "6 Months",
+"role": "Automation Test Engineer",
+"skills": ["Selenium", "Java", "Gradle", "Azure DevOps", "API Testing", "Postman", "AEM"],
+"contributions": [
+"Built automation framework from scratch using Selenium with Java and Gradle",
+"Integrated automation scripts into Azure CI/CD pipelines",
+"Performed UI/UX and API testing using Postman",
+"Worked on Adobe Experience Manager (AEM) integrated frontend testing",
+"Implemented accessibility testing and generated dashboards for reporting"
+]
+}
+]

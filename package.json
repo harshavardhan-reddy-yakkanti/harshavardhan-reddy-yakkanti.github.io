@@ -1,0 +1,24 @@
+{
+  "name": "my-portfolio-site",
+  "version": "1.0.0",
+  "description": "A portfolio site showcasing skills and experiences in an interactive format.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "node build.js",
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [
+    "portfolio",
+    "web",
+    "interactive"
+  ],
+  "author": "Harshavardhan Reddy Yakkanti",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1",
+    "gh-pages": "^3.2.3"
+  },
+  "devDependencies": {},
+  "homepage": "https://yourusername.github.io/my-portfolio-site"
+}
