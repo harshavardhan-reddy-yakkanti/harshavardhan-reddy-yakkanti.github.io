@@ -99,16 +99,4 @@ if (modal) modal.style.display = "none";
 
 
 
-document.addEventListener("click", function (e) {
 
-const header = e.target.closest(".section-header");
-
-if (!header) return;
-
-const section = header.parentElement;
-
-if (section && section.classList.contains("collapsible")) {
-    section.classList.toggle("collapsed");
-}
-
-});

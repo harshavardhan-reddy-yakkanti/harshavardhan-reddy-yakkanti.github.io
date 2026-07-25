@@ -2,31 +2,43 @@
   {
     "title": "Efood – Collect & Go",
     "duration": "July 2023 - October 2025",
-    "role": "Test Engineer",
-    "skills": ["Selenium", "Playwright", "Java", "Cucumber", "TestNG", "Jenkins", "CI/CD", "Postman"],
-    "summary": "Built and scaled UI/API automation frameworks to improve test coverage and enable continuous regression testing.",
+    "role": "Test Engineer 1",
+    "skills": ["Java", "Selenium", "JUnit", "Cucumber", "Gradle", "Jenkins"],
+    "summary": "Built and scaled UI automation frameworks to improve test coverage and enable continuous regression testing.",
     "contributions": [
-      "Designed and implemented scalable automation frameworks using Selenium and Playwright for end-to-end testing",
-      "Automated critical user journeys, significantly improving overall test coverage across releases",
-      "Integrated automated test suites into Jenkins CI/CD pipelines, enabling continuous and faster regression cycles",
-      "Reduced manual testing effort by building reusable components and structured test architecture",
-      "Enhanced test reliability and reporting using TestNG, Cucumber, and logging mechanisms",
-      "Collaborated with developers and business teams to identify high-risk scenarios and prevent production defects"
+      "Maintained and enhanced the Selenium automation framework using Java, JUnit, and Cucumber for end-to-end web application testing",
+      "Automated approximately 80% of critical business workflows, significantly reducing manual regression effort",
+      "Implemented parallel test execution to improve regression execution efficiency",
+      "Developed an automated production server health monitoring solution that validated server availability, detected failures, and automatically created P1 incidents for critical issues",
+      "Scheduled automated monitoring and regression suites through Jenkins for continuous validation of production environments"
     ]
   },
   {
-    "title": "MACH CoGo",
+    "title": "MACH CoGo BE",
     "duration": "November 2025 - Present",
-    "role": "Test Engineer",
-    "skills": ["Selenium", "Java", "Gradle", "Azure DevOps", "API Testing", "AEM"],
+    "role": "Test Engineer 2",
+    "skills": ["Java", "Selenium", "TestNG", "Cucumber", "Azure DevOps", "Axe DevTools"],
     "summary": "Developed automation solutions and CI/CD integrations to modernize testing workflows and improve delivery efficiency.",
     "contributions": [
-      "Built a Selenium-based automation framework from scratch using Java and Gradle for scalable test execution",
-      "Pioneered integration of automation scripts into Azure DevOps CI/CD pipelines within the organization",
-      "Performed API testing using Postman and validated backend services for reliability and performance",
-      "Tested AEM-based frontend components ensuring content accuracy and seamless user experience",
-      "Implemented accessibility testing practices to improve application usability and compliance",
-      "Created dashboards and reporting mechanisms to track test execution and quality metrics"
+      "Designed and developed a Selenium automation framework from scratch using Java, TestNG, and Cucumber",
+      "Implemented parallel execution of Cucumber feature files to reduce regression execution time",
+      "Designed and implemented fully automated Azure DevOps CI/CD pipelines to trigger different automation suites based on deployment and execution events",
+      "Configured automated test result publication as build artifacts for improved reporting and traceability",
+      "Integrated Axe DevTools into the automation framework to perform automated accessibility testing and generate accessibility reports"
+    ]
+  },
+  {
+    "title": "AEM Automation (Ongoing)",
+    "duration": "January 2026 - Present",
+    "role": "Test Engineer 2",
+    "skills": ["Playwright", "TypeScript", "MCP", "AI Agents"],
+    "summary": "Building a reusable Playwright + TypeScript automation framework with AI-assisted testing via MCP and AI agents.",
+    "contributions": [
+      "Designing and developing a reusable Playwright automation framework from scratch using TypeScript",
+      "Building a scalable framework supporting functional, UI, and UI/UX validation with reusable components for multiple applications",
+      "Implementing visual testing utilities, screenshot comparison, and reusable automation architecture to improve framework scalability",
+      "Integrating AI-assisted testing using Playwright MCP and AI agents to accelerate framework development, automate repetitive testing tasks, and improve developer productivity",
+      "Developing a framework that can be adopted across multiple projects with minimal configuration changes"
     ]
   }
 ]
